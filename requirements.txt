@@ -1,7 +1,7 @@
 steamlit
 xgboost
 pandas
-yfinace
+yfinance
 scikit-learn
 matplotlib
 numpy
