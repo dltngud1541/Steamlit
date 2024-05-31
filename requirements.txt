@@ -1,0 +1,7 @@
+steamlit
+xgboost
+pandas
+yfinace
+scikit-learn
+matplotlib
+numpy
